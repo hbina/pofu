@@ -1,0 +1,13 @@
+[package]
+name = "pofu"
+version = "0.1.0"
+authors = ["Hanif Bin Ariffin <hanif.ariffin.4326@gmail.com>"]
+edition = "2018"
+keywords = ["math", "series"]
+license = "MIT"
+repository = "https://github.com/hbina/rustpixiv"
+description = "Mathematical series as a Rust library."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
